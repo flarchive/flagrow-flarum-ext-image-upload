@@ -1,8 +1,15 @@
-# flagrow/flarum-ext-image-upload (Archive)
+# flagrow-flarum-ext-image-upload (Archive)
 
-> **Read-only archive of released versions of flagrow/flarum-ext-image-upload.** Not for installation: use [Packagist](https://packagist.org/packages/flagrow/flarum-ext-image-upload) or the [upstream repository](https://github.com/flagrow/flarum-ext-image-upload).
+> **Read-only archive of released versions for flagrow/flarum-ext-image-upload, flagrow/image-upload, flagrow/remote-image-upload.** Not for installation: use Packagist or the [upstream repository](https://github.com/flagrow/flarum-ext-image-upload).
 
-**14** versions archived · Latest: [`0.3.1`](https://github.com/flarchive/flagrow-flarum-ext-image-upload/tree/archive/v0.3.1) · License: `MIT` · Flarum: `^0.1.0-beta.6`
+**14** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/flagrow-flarum-ext-image-upload/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.4`
+
+## Linked Packages
+
+This canonical archive repository hosts releases for the following Packagist packages:
+- [`flagrow/flarum-ext-image-upload`](https://packagist.org/packages/flagrow/flarum-ext-image-upload)
+- [`flagrow/image-upload`](https://packagist.org/packages/flagrow/image-upload)
+- [`flagrow/remote-image-upload`](https://packagist.org/packages/flagrow/remote-image-upload)
 
 ## Archived Versions
 
@@ -21,7 +28,11 @@
 
 [View all 14 versions](https://github.com/flarchive/flagrow-flarum-ext-image-upload/tags)
 
-Catalog entry: [packages/flagrow-flarum-ext-image-upload.json](https://github.com/flarchive/archive-index/blob/main/packages/flagrow-flarum-ext-image-upload.json)
+## Catalog entries
+
+- [`flagrow/flarum-ext-image-upload`](https://github.com/flarchive/archive-index/blob/main/packages/flagrow-flarum-ext-image-upload.json)
+- [`flagrow/image-upload`](https://github.com/flarchive/archive-index/blob/main/packages/flagrow-image-upload.json)
+- [`flagrow/remote-image-upload`](https://github.com/flarchive/archive-index/blob/main/packages/flagrow-remote-image-upload.json)
 
 ## About this archive
 
